@@ -9,6 +9,7 @@
         {
         "matches" : ["<all_urls>"],
         "js":["popup.html"]
+       
 }],
     "background":{
         "scripts": ["background.js"],
